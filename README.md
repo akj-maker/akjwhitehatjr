@@ -1,8 +1,10 @@
+Mwa.
+
 - 👋 Hi, I’m @akjwhitehatjr
 - 👀 I’m interested in coding and programming lol.
 - 🌱 I’m currently learning React.native (JSX).
-- 💞️ I’m looking to collaborate on eh. Anything. I know Javascript, HTML, and CSS.
-- 📫 How to reach me: dotlinedotlinedotline@gmail.com OR my Discord: TheGoodSamurai#0013
+- 💞️ I’m looking to collaborate on anything. I know Javascript, HTML, and CSS.
+- 📫 How to reach me: dotlinedotlinedotline@gmail.com OR my Discord: TheGoodSamurai#4529
 
 <!---
 akjwhitehatjr/akjwhitehatjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
